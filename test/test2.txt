@@ -1,0 +1,12 @@
+var A, B, C, X, Y;
+begin
+    A := 3;
+    B := 4;
+    X := ((A * B) - (6 / 2));
+    C := 5;
+    C := 2;
+    Y := ((A * B) * (18 + C));
+    write(C);
+    write(X);
+    write(Y);
+end.
